@@ -16,12 +16,11 @@ flask
 tornado
 mitmproxy
 pyspider
-Scrapy
+scrapy
 scrapy_splash
 scrapy_redis
 scrapyd
+scrapyd-client
+scrapyd-api
 scrapyrt
 gerapy
-
-
-
